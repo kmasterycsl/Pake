@@ -1360,7 +1360,7 @@ const DEFAULT_PAKE_OPTIONS = {
     wasm: false,
     enableDragDrop: false,
     keepBinary: false,
-    multiInstance: false,
+    multiInstance: true,
     startToTray: false,
     forceInternalNavigation: false,
 };
